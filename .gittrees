@@ -1,4 +1,4 @@
 [subtree "sub"]
-	url = git@github.com:JohnnyMcGee/sub-subtree.git
+	url = sub-subtree
 	path = sub
 	branch = main
